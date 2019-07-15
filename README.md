@@ -19,4 +19,4 @@ P.S: Refer serial wise to avoid confusion and non-understanding of topics
 Tip: Change the video speed to 1.25x to save your time. 
 
 
-## __"Time is a huge huge money"
+## "Time is a huge huge money"
