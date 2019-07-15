@@ -15,8 +15,8 @@ Topics discussed are:-
 9) Two Dimensional Lists
 10) Tuples, Dictionary and Sets
             
-P.S: Refer serial wise to avoid confusion and non-understanding of topics            
-Tip: Change the video speed to 1.25x to save your **time**. 
+**P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
+**Tip**: Change the video speed to 1.25x to save your **time**. 
 
 
 ## "Time is a huge huge money"
