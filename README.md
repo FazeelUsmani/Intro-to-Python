@@ -14,9 +14,14 @@ Topics discussed are:-
 8) Strings
 9) Two Dimensional Lists
 10) Tuples, Dictionary and Sets
+
+Download Jupyter notebook from here: https://jupyter.org/  
+Installing Jupyter notebook: https://jupyter.org/install  
+If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3  
+
             
 **P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
-**Tip**: Change the video speed to 1.25x to save your **time**. 
+**Tip**: Change the video speed to 1.25x to save your **time**     
 
 
 ## "Time is a huge huge money"
