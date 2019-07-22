@@ -15,9 +15,9 @@ Topics discussed are:-
 9) Two Dimensional Lists
 10) Tuples, Dictionary and Sets
 
-Download Jupyter notebook from here: https://jupyter.org/  
-Installing Jupyter notebook: https://jupyter.org/install  
-If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3  
+__Download Jupyter notebook from here:__ https://jupyter.org/  
+__Installing Jupyter notebook:__ https://jupyter.org/install  
+If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3  
 
             
 **P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
