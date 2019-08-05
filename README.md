@@ -25,3 +25,8 @@ If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Onl
 
 
 ## "Time is a huge huge money"
+
+
+
+Register the course with the following referral link to get ₹1,000/-
+Referral Link: https://codingninjas.in/app/invite/THMPN
