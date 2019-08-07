@@ -28,5 +28,6 @@ If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Onl
 
 
 
-Register the course with the following referral link to get ₹1,000/-
+Register the course with the following referral link to get a discount of ₹1,000/- 
 Referral Link: https://codingninjas.in/app/invite/THMPN
+**Sign Up with a new ID
