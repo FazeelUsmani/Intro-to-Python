@@ -5,15 +5,14 @@ File names which contain practice means the assignments of that particular topic
 
 Topics discussed are:-
 1) Conditions and Loops
-2) Patterns 1
-3) Patterns 2
-4) More on Loops
-5) Functions 
-6) Arrays & Lists
-7) Searching & Sorting
-8) Strings
-9) Two Dimensional Lists
-10) Tuples, Dictionary and Sets
+2) Patterns 
+3) More on Loops
+4) Functions 
+5) Arrays & Lists
+6) Searching & Sorting
+7) Strings
+8) Two Dimensional Lists
+9) Tuples, Dictionary and Sets
 
 __Download Jupyter notebook from here:__ https://jupyter.org/  
 __Installing Jupyter notebook:__ https://jupyter.org/install  
