@@ -8,7 +8,7 @@ Topics discussed are:-
 2) Patterns 
 3) More on Loops
 4) Functions 
-5) Arrays & Lists
+5) Arrays/Lists
 6) Searching & Sorting
 7) Strings
 8) Two Dimensional Lists
