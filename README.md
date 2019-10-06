@@ -5,7 +5,7 @@ File names which contain practice means the assignments of that particular topic
 
 Topics discussed are:-
 1) Conditions and Loops
-2) Patterns 
+2) Patterns (This includes both basic and advanced patterns)
 3) More on Loops
 4) Functions 
 5) Arrays/Lists
