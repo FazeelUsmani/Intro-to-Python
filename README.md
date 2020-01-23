@@ -5,7 +5,7 @@ File names which contain practice means the assignments of that particular topic
 
 Topics discussed are:-
 1) [Conditions and Loops](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/1%20Conditions%20and%20Loops)
-2) Patterns (This includes both basic and advanced patterns)
+2) [Patterns (This includes both basic and advanced patterns)](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/2%20Patterns%201)
 3) More on Loops
 4) Functions 
 5) Arrays/Lists
