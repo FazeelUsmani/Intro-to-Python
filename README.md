@@ -7,7 +7,7 @@ Topics discussed are:-
 1) [Conditions and Loops](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/1%20Conditions%20and%20Loops)
 2) [Patterns](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/2%20Patterns%201) (This includes both basic and advanced patterns)
 3) [More on Loops](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/3%20More%20on%20Loops)
-4) Functions 
+4) [Functions](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/4%20Functions)
 5) Arrays/Lists
 6) Searching & Sorting
 7) Strings
