@@ -4,7 +4,7 @@ If you're unable to view the patterns properly in Jupyter notebook then double-c
 File names which contain practice means the assignments of that particular topic. For an example, Patterns 1 Practice.ipynb means assignments file of first part of Patterns topic. 
 
 Topics discussed are:-
-1) (Conditions and Loops)[https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/1%20Conditions%20and%20Loops]
+1) [Conditions and Loops](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/1%20Conditions%20and%20Loops)
 2) Patterns (This includes both basic and advanced patterns)
 3) More on Loops
 4) Functions 
