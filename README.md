@@ -10,7 +10,7 @@ Topics discussed are:-
 4) [Functions](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/4%20Functions)
 5) [Arrays/Lists](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/5%20Arrays)
 6) [Searching & Sorting](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/6%20Searching%20and%20Sorting)
-7) Strings
+7) [Strings](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/7%20Strings)
 8) Two Dimensional Lists
 9) Tuples, Dictionary and Sets
 
