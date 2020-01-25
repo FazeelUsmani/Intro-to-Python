@@ -26,7 +26,7 @@ If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Onl
 ## "Time is a huge huge money"
 
 
-After this course completion, I recommend to have a look on these MIT lectures to get in depth knowledge of data structures and algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+After this course completion, I recommend to have a look on these __MIT__ lectures to get in depth knowledge of data structures and algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
 
 Register the course with the following referral link to get a discount of ₹1,000/-    
