@@ -9,7 +9,7 @@ Topics discussed are:-
 3) [More on Loops](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/3%20More%20on%20Loops)
 4) [Functions](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/4%20Functions)
 5) [Arrays/Lists](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/5%20Arrays)
-6) Searching & Sorting
+6) [Searching & Sorting](https://github.com/FazeelUsmani/Coding-Ninjas-Intro-to-Python-/tree/master/6%20Searching%20and%20Sorting)
 7) Strings
 8) Two Dimensional Lists
 9) Tuples, Dictionary and Sets
